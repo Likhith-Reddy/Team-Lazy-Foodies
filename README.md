@@ -6,7 +6,6 @@ Algorithms
 
 
 Dataset link :https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
-Report in IEEE Format :https://drive.google.com/file/d/1Wlmw0jqChhWCjfEwL2WWXp3OWgUv1uFh/view?usp=sharing
 
 
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, and it will be a different story.To solve this problem, we have been provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities, using which we aim to build a model which predicts the prices of the flights using various input features.
